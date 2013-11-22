@@ -1,0 +1,12 @@
+.branche_thumb {
+    position: absolute;
+    top:0;
+}
+.btn {
+    width:80%;
+}
+.msg {
+    display:none;
+}
+td {vertical-align: top;}
+th {background-color: #dddddd;}

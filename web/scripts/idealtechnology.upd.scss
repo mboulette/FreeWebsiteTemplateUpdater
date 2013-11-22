@@ -1,0 +1,14 @@
+        .contactFormButton {
+          margin-top: 12px;
+          width: 100px;
+          height: 26px;
+          color: $COULEUR_TITRE;
+        }
+        a.lien-sidebar {
+          float: left !important;
+          text-decoration: inherit !important;
+        }
+        #content a.lien-sidebar {
+          text-decoration: underline !important;
+          margin-top: 10px;
+        }

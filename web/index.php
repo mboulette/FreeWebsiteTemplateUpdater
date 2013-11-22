@@ -15,98 +15,10 @@ $branches = explode("\n", $branches);
 
 <head>
 <title>Système pour appliquer une patch à plusieurs templates (branches)</title>
-<style>
-    .branche_thumb {
-        position: absolute;
-        top:0;
-    }
-    .btn {
-        width:80%;
-    }
-    .msg {
-        display:none;
-    }
-    td {vertical-align: top;}
-    th {background-color: #dddddd;}
-</style>
+<link rel="stylesheet" type="text/css" href="css/run.css" />
 
 <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
-<script>
-$( document ).ready(function() {
-    $('.branche_thumb').hover(
-        function(){
-            $(this).attr('width', '215');
-            $(this).css('z-index', 100);
-        },
-        function(){
-            $(this).attr('width', '16');
-            $(this).css('z-index', 0);
-        }
-    );
-
-    $('#btn_next').on('click', function(){
-
-        $last = $(':checkbox').index($(':checked:last'))+1;
-        $(':checkbox:checked').prop('checked', false);
-        $(':checkbox').slice($last,$last+5).prop('checked', true);
-
-        if ($(':checkbox:checked').size() > 0 ) {
-            $(document.body).animate({scrollTop: $(':checkbox:checked').first().offset().top-50}, 100);
-        }
-    });
-
-    $('#btn_reset').on('click', function(){
-        $('.result span').html('&nbsp;');
-        $('.result div').html('&nbsp;').hide();
-    });
-
-    $('#btn_select_all').on('click', function(){
-        $(':checkbox').prop('checked', true);
-    });
-
-    $('#btn_unselect_all').on('click', function(){
-        $(':checkbox:checked').prop('checked', false);
-    });
-
-    $('.result span, .result i').on('click', function(){
-
-        $(this).parent().children('div').toggle();
-        if ($(this).parent().children('i').html() == '+') {
-            $(this).parent().children('i').html('-');
-        } else {
-            $(this).parent().children('i').html('+');
-        }
-    });
-    $('#btn_run').on('click', function(){
-        if ($(':checkbox:checked').size() > 0) {
-            $id = $(':checkbox:checked:first').data('id');
-            patch($id);
-        }
-    });
-
-    patch = function(id){
-        $('#result_'+id+' span').html('Loading...');
-
-        $.ajax({
-            type: 'POST',
-            url: 'run.php',
-            data: 'branch='+$('#branche_'+id).val(),
-        }).done(function(){
-            $('#result_'+id+' span').html('<font color="green">Done!</font>');
-        }).fail(function(){
-            $('#result_'+id+' span').html('<font color="red">Error!</font>');
-        }).always(function(msg) {
-            $('#result_'+id+' div').html(msg);
-
-            if ($(':checkbox:gt('+id+')').filter(':checked').size() > 0 ) {
-                patch($(':checkbox:gt('+id+')').filter(':checked').data('id'));
-            }
-
-        });
-    }
-
-});
-</script>
+<script src="js/run.js"></script>
 
 </head>
 
@@ -176,6 +88,7 @@ echo '</form>';
 ?>
 <div style="position:fixed; top:200px; left:10px; width:100px; border:1px solid #666666; border-radius: 10px; background-color:#999999; padding:20px 0 20px 0;" align="center">
     <button id='btn_reset'        class='btn'>Reset</button>
+    <button id='btn_cancel'       class='btn'>Cancel</button>
     <button id='btn_select_all'   class='btn'>Select All</button>
     <button id='btn_unselect_all' class='btn'>Unselect All</button>
     <button id='btn_next'         class='btn'>Next 5</button>
