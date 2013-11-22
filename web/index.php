@@ -1,3 +1,15 @@
+<?php
+header('Content-Type: text/html; charset=utf-8');
+set_time_limit(600);
+
+require_once(dirname(__FILE__).'/lib/PHPGit/Repository.php');
+require_once(dirname(__FILE__).'/config.php');
+
+$repo = new PHPGit_Repository(REPO_PATH);
+$branches = $repo->git('branch -a');
+$branches = explode("\n", $branches);
+
+?>
 <!doctype html>
 <html>
 
@@ -103,17 +115,6 @@ $( document ).ready(function() {
 <h3>Système pour appliquer une patch à plusieurs templates (branches)</h3>
 
 <?php
-header('Content-Type: text/html; charset=utf-8');
-set_time_limit(600);
-
-require_once(dirname(__FILE__).'/lib/PHPGit/Repository.php');
-require_once(dirname(__FILE__).'/config.php');
-
-$repo = new PHPGit_Repository(REPO_PATH);
-$branches = $repo->git('branch -a');
-$branches = explode("\n", $branches);
-
-
 echo '
 <strong>Repo :</strong> '.REPO_PATH.'<br />
 <strong>Patch :</strong> '.SCRIPT_PATH.'<br /><br>
