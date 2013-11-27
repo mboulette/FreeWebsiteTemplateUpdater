@@ -6,6 +6,7 @@ require_once(dirname(__FILE__).'/lib/PHPGit/Repository.php');
 require_once(dirname(__FILE__).'/config.php');
 
 $repo = new PHPGit_Repository(REPO_PATH);
+$repo->git('git fetch -p');
 $branches = $repo->git('branch -a');
 $branches = explode("\n", $branches);
 
@@ -91,7 +92,7 @@ echo '</form>';
     <button id='btn_cancel'       class='btn'>Cancel</button>
     <button id='btn_select_all'   class='btn'>Select All</button>
     <button id='btn_unselect_all' class='btn'>Unselect All</button>
-    <button id='btn_next'         class='btn'>Next 5</button>
+    <button id='btn_next'         class='btn'>Next 10</button>
     <button id='btn_run'          class='btn'>Patch !</button>
 </div>
 

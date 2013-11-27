@@ -15,7 +15,7 @@ $( document ).ready(function() {
     $('#btn_next').on('click', function(){
         $last = $(':checkbox').index($(':checked:last'))+1;
         $(':checkbox:checked').prop('checked', false);
-        $(':checkbox').slice($last,$last+5).prop('checked', true);
+        $(':checkbox').slice($last,$last+10).prop('checked', true);
 
         if ($(':checkbox:checked').size() > 0 ) {
             $(document.body).animate({scrollTop: $(':checkbox:checked').first().offset().top-50}, 100);
@@ -69,6 +69,8 @@ $( document ).ready(function() {
             $('#result_'+id+' span').html('<font color="red">Error!</font>');
             $('#result_'+id+' div').html(xhr.responseText);
 
+            $('input, button').removeAttr('disabled');
+
         }).done(function(data){
             $('#result_'+id+' span').html('<font color="green">Done!</font>');
             $('#result_'+id+' div').html(data);
@@ -88,6 +90,6 @@ $( document ).ready(function() {
                 $('input, button').removeAttr('disabled');
             }
         });
-    }
+    };
 
 });
