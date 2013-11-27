@@ -24,6 +24,7 @@ echo 'PATCH - Appliquer les modifications - ';
 include(SCRIPT_PATH);
 echo '<br />';
 
+sleep(5);
 
 try {
     echo 'ADD - Préparer les fichiers modifiés - ';

@@ -7,6 +7,7 @@ require_once(dirname(__FILE__).'/config.php');
 
 $repo = new PHPGit_Repository(REPO_PATH);
 $branches = $repo->git('branch -a');
+
 $branches = explode("\n", $branches);
 
 ?>
