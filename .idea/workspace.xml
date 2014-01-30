@@ -1,38 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d367a3-6569-44e2-9cb3-717712617ff0" name="Default" comment="" />
+    <list default="true" id="f8d367a3-6569-44e2-9cb3-717712617ff0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/repo/FreeWebsiteTemplate" afterPath="$PROJECT_DIR$/web/repo/FreeWebsiteTemplate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/config.php" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="FreeWebsiteTemplateUpdater.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387201952340" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/css/idealtechnology.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387296056201" ignored="false" />
+    <file path="/Dummy.txt" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390310928592" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/css/idealtechnology.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387554036283" ignored="false" />
     <file path="/idealtechnology.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385493568018" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/idealtechnology.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387296056201" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/idealtechnology.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488475912" ignored="false" />
     <file path="/config.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385495436074" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Content/cl_nous-joindre.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387383880147" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Widget/testimonial.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387383880147" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/Controller/ContactUs.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387477925786" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Structure/ml_default.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387383880147" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Content/cl_header.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387383880147" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/home.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387286901246" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/page.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387286901246" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Content/cl_nous-joindre.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Widget/testimonial.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/Controller/ContactUs.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390509515378" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Structure/ml_default.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Content/cl_header.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387558770947" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/home.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/page.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
     <file path="/run.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385576900142" ignored="false" />
     <file path="/idealtechnology.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387291380217" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_conference.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387296056201" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_temoignage.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387296056201" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_produit.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387296056201" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_bp-global.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387290493749" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_helpers.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387296056201" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_it-fonts.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387296056201" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_conference.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_temoignage.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_produit.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_bp-global.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_helpers.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_it-fonts.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Design/designFrontEnd.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385588483909" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Video/_partial/_form.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385588483909" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_fonts.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_base.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_fonts.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389111239232" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_base.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_navigation.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387222260079" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/backend.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387310618066" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/backend.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390493006069" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_search.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386948545427" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Clinic/edit.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385588483909" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/DataFixtures/ORM/LoadUserData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/DataFixtures/ORM/LoadUserData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
     <file path="/LoadUserData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385589953901" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Entity/Clinic.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385645359175" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Controller/ClinicController.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385645518002" ignored="false" />
@@ -42,25 +46,25 @@
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Clinic/MY/_partial/_form.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385645970832" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/app/config/parameters.ini" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386790258675" ignored="false" />
     <file path="/parameters.ini" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385646042711" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/app/cache/dev/appDevDebugProjectContainer.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/app/cache/dev/appDevDebugProjectContainer.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389716762950" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/DataFixtures/ORM/LoadVideoData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385646576590" ignored="false" />
     <file path="/LoadVideoData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385646570651" ignored="false" />
     <file path="/build.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386949215750" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/build.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/translations/cart.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386948545422" ignored="false" />
-    <file path="/a.dummy" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387223783177" ignored="false" />
+    <file path="/a.dummy" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390513764961" ignored="false" />
     <file path="/_navigation.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386175515243" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/_partial/_product.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386948545422" ignored="false" />
     <file path="/_product.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385730853898" ignored="false" />
-    <file path="/backend.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387309172536" ignored="false" />
+    <file path="/backend.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389715883645" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/show.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/config/menus.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590494" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/translations/menu.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386189592129" ignored="false" />
-    <file path="/menu.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385668715304" ignored="false" />
-    <file path="/menus.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385665029762" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/config/menus.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389717699324" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/translations/menu.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
+    <file path="/menu.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389717621267" ignored="false" />
+    <file path="/menus.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389716898565" ignored="false" />
     <file path="/show.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385735203157" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/edit.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/web/css/backend.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308931609" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/web/css/backend.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389713570423" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/history.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
     <file path="/history.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386099384447" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/index.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
@@ -86,12 +90,12 @@
     <file path="/style.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387375912942" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealTechnology/public_html/css/style.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387220740304" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/js/app/myclass/my.class.cart.js" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386270542357" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/web/js/main.js" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386253430991" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/web/js/main.js" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/_partial/_print.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386270533154" ignored="false" />
     <file path="/_print.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386256578243" ignored="false" />
     <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_media.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386968564475" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_module.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387291352871" ignored="false" />
-    <file path="$PROJECT_DIR$/../IdealTechnology/framework/lib/module/BackEnd/src/View/cl_templates_selector.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387477925786" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_module.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389278135152" ignored="false" />
+    <file path="$PROJECT_DIR$/../IdealTechnology/framework/lib/module/BackEnd/src/View/cl_templates_selector.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390513013644" ignored="false" />
     <file path="/cl_templates_selector.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386959644607" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealTechnology/framework/config/routing.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386712316604" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealTechnology/framework/lib/module/Page/src/Controller/Templates.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387477925786" ignored="false" />
@@ -99,7 +103,7 @@
     <file path="$PROJECT_DIR$/../IdealTechnology/framework/lib/module/BackEnd/src/View/cl_site-hosting-update.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386712316604" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealTechnology/framework/lib/module/Page/src/Layout/Basic.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386712316604" ignored="false" />
     <file path="/cl_socialmedia.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386779745801" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/_partial/_summary.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387222260079" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/_partial/_summary.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/vendor/friendsofsymfony/rest-bundle/FOS/RestBundle/Resources/config/body_listener.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386788136546" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/vendor/friendsofsymfony/rest-bundle/FOS/RestBundle/Resources/config/util.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386788136546" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/vendor/friendsofsymfony/rest-bundle/FOS/RestBundle/Resources/config/format_listener.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386788136546" ignored="false" />
@@ -108,40 +112,49 @@
     <file path="$PROJECT_DIR$/../itv/app/config/parameters.ini.template" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386794437023" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Share/from.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387222260079" ignored="false" />
     <file path="/from.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386954531099" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/FAQBundle/Resources/views/FAQ/list.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/FAQBundle/Resources/views/FAQ/list.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/_settings.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386948545422" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Default/_partial/_home_dieter_welcome.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Default/_partial/_home_dieter_welcome.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/NewsBundle/Resources/views/News/_partial/_home_dieter.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/web/css/frontend.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/web/css/vendor.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
     <file path="/ucl_accueil.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387212571344" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/section/_home-page.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/_partial/_novideo_message.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590494" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Customer/video_list.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Default/_partial/_home_banner.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/app/Resources/KnpPaginatorBundle/views/Pagination/sliding.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/FAQBundle/Resources/views/FAQ/_partial/_list.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/FAQBundle/Resources/views/FAQ/_partial/_search.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308579155" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/section/_home-page.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/_partial/_novideo_message.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Customer/video_list.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705582708" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Default/_partial/_home_banner.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/app/Resources/KnpPaginatorBundle/views/Pagination/sliding.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/FAQBundle/Resources/views/FAQ/_partial/_list.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/FAQBundle/Resources/views/FAQ/_partial/_search.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705582708" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/app/cache/dev/twig/00/68/69afb8d806f2856c0a6b928f78d65f6994467bf8044a50eea80d059a9759.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590494" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/js/app/myplugin/my.grid.js" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590494" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Console/mailer.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590494" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/app/cache/dev/appDevDebugProjectContainer.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/.gitignore" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/composer.json" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
-    <file path="$PROJECT_DIR$/../IdealProtein/framework/lib/module/Page/src/View/Structure/ml_default.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387470232285" ignored="false" />
+    <file path="$PROJECT_DIR$/../IdealProtein/framework/lib/module/Page/src/View/Structure/ml_default.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387555476970" ignored="false" />
     <file path="/ml_default.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387469950850" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealProtein/public_html/scss/screen.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387400327905" ignored="false" />
     <file path="/screen.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387400325907" ignored="false" />
-    <file path="$PROJECT_DIR$/../IdealProtein/public_html/scss/_share-button.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387469454767" ignored="false" />
+    <file path="$PROJECT_DIR$/../IdealProtein/public_html/scss/_share-button.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387551557574" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealProtein/public_html/js/wt_script.js" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387467539347" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealProtein/public_html/scss/_fonts.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387464979888" ignored="false" />
     <file path="/_fonts.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387397042779" ignored="false" />
-    <file path="$PROJECT_DIR$/../IdealProtein/public_html/css/screen.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387469506260" ignored="false" />
-    <file path="/_share-button.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387469452462" ignored="false" />
+    <file path="$PROJECT_DIR$/../IdealProtein/public_html/css/screen.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387552871668" ignored="false" />
+    <file path="/_share-button.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387551546712" ignored="false" />
     <file path="/wt_script.js" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387462568999" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealTechnology/public_html/.htaccess" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387478047327" ignored="false" />
     <file path="$PROJECT_DIR$/../freewebsite/common/public_html/.htaccess" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387486497268" ignored="false" />
     <file path="/.htaccess" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387478559648" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/public_html/scss/_temoignage.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/_partial/_view.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389716181447" ignored="false" />
+    <file path="/_view.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389715802408" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/layoutOneColumn.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
+    <file path="/layoutOneColumn.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389715358921" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Video/show.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390493006069" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/locale/fr_CA/LC_MESSAGES/default.po" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390509515378" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/public_html/js/wt_scripts.js" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390509515378" ignored="false" />
+    <file path="$PROJECT_DIR$/../IdealTechnology/framework/locale/fr_CA/fr_CA.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390569914865" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,9 +200,9 @@
       <file leaf-file-name="idealtechnology.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/repo/FreeWebsiteTemplate/public_html/css/idealtechnology.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1149" column="24" selection-start="25666" selection-end="25666" vertical-scroll-proportion="0.0">
+            <state line="1216" column="24" selection-start="30848" selection-end="30848" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1386271218000" expanded="true" signature="35847:35893" placeholder="{...}" />
+                <marker date="1387547174000" expanded="true" signature="51424:51470" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -530,13 +543,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1360" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23667462" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14399363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14757359" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -680,9 +693,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/repo/FreeWebsiteTemplate/public_html/css/idealtechnology.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1149" column="24" selection-start="25666" selection-end="25666" vertical-scroll-proportion="0.0">
+        <state line="1216" column="24" selection-start="30848" selection-end="30848" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1386271218000" expanded="true" signature="35847:35893" placeholder="{...}" />
+            <marker date="1387547174000" expanded="true" signature="51424:51470" placeholder="{...}" />
           </folding>
         </state>
       </provider>
