@@ -1,12 +1,18 @@
 <?php
-$patch_name = 'Modification de traduction sur Main.php';
+$patch_name = 'Modification de traduction sur testimonial_full.php';
 
 echo 'Modification de traduction sur Main.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/Layout/Main.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/testimonial_full.php';
 
-$string1 = "_('API Communication Error')";
-$replace1 = 'Helper_Trans::translate("Page", "API Communication Error")';
+$string1 = '<?php
+if (substr($_SESSION[\'internal\'][\'locale\']->getAbbr(), 0, 2)==\'en\') {
+    echo \'<p class="disclaimers" style="font-size: 90%; font-style: italic;">*Results while following the Ideal Protein Weight Loss Method may vary</p>\';
+} else {
+    echo \'<p class="disclaimers" style="font-size: 90%; font-style: italic;">* Les résultats en suivant la méthode de perte de poids Ideal Protein peuvent varier.</p>\';
+}
+?>';
+$replace1 = '   <p class="disclaimers" style="font-size: 90%; font-style: italic;"><?php echo Helper_Trans::translate(\'Page\', \'*Results while following the Ideal Protein Weight Loss Method may vary\'); ?></p>';
 
 
 

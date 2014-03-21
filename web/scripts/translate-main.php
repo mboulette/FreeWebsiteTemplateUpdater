@@ -1,15 +1,14 @@
 <?php
-$patch_name = 'Permettre la 2nd Location';
+$patch_name = 'Modification de traduction sur Main.php';
 
-echo 'Modification de menu_default.php - ';
+echo 'Modification de traduction sur Main.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Menu/menu_default.php';
-$string1 = "case 'system':";
-$replace1 = 'case \'system\':
-            $target = isset($elem[\'attr\'][\'target\']) ? $elem[\'attr\'][\'target\'] : \'_self\';';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/Layout/Main.php';
 
-$string2 = 'echo "\n{$indent2}<a href=\"{$url}\"{$class}>{$title}</a>";';
-$replace2 = 'echo "\n{$indent2}<a href=\"{$url}\"{$class} target=\"{$target}\">{$title}</a>";';
+$string1 = "_('API Communication Error')";
+$replace1 = 'Helper_Trans::translate("Page", "API Communication Error")';
+
+
 
 if (file_exists($fileToPatch)) {
 
@@ -20,13 +19,6 @@ if (file_exists($fileToPatch)) {
     } else {
         http_response_code(500);
         die('Err : String1 not found!');
-    }
-
-    if(strpos($content, $string2) !== false){
-            $content = str_replace($string2, $replace2, $content);
-    } else {
-        http_response_code(500);
-        die('Err : String2 not found!');
     }
 
     try {

@@ -24,7 +24,7 @@ echo 'PATCH - Appliquer les modifications - ';
 include(SCRIPT_PATH);
 echo '<br />';
 
-sleep(5);
+sleep(1); // Use at 5 only to patch scss
 
 try {
     echo 'ADD - Préparer les fichiers modifiés - ';

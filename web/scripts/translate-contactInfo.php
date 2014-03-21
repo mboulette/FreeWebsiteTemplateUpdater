@@ -5,23 +5,17 @@ echo 'Modification de traduction sur contactInfo.php - ';
 
 $fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/contactInfo.php';
 
-$string1 = "_('Date :')";
-$replace1 = "Helper_Trans::translate('Page', 'Date:')";
+$string1 = "gettext('Address')";
+$replace1 = "Helper_Trans::translate('Page', 'Address')";
 
-$string2 = "_('Hour :')";
-$replace2 = "Helper_Trans::translate('Page', 'Hour:')";
+$string2 = "gettext('Contact')";
+$replace2 = "Helper_Trans::translate('Page', 'Contact')";
 
-$string3 = "_('Location :')";
-$replace3 = "Helper_Trans::translate('Page', 'Location:')";
+$string3 = '_("Téléphone")';
+$replace3 = "Helper_Trans::translate('Page', 'Phone')";
 
-$string4 = "_('Address :')";
-$replace4 = "Helper_Trans::translate('Page', 'Address:')";
-
-$string5 = "_('Phone :')";
-$replace5 = "Helper_Trans::translate('Page', 'Phone:')";
-
-$string6 = "_('Additionnal informations :')";
-$replace6 = "Helper_Trans::translate('Page', 'Additionnal informations:')";
+$string4 = '_("Email")';
+$replace4 = "Helper_Trans::translate('Page', 'Email')";
 
 
 if (file_exists($fileToPatch)) {
@@ -54,20 +48,6 @@ if (file_exists($fileToPatch)) {
     } else {
         http_response_code(500);
         die('Err : String4 not found!');
-    }
-
-    if(strpos($content, $string5) !== false){
-        $content = str_replace($string5, $replace5, $content);
-    } else {
-        http_response_code(500);
-        die('Err : String5 not found!');
-    }
-
-    if(strpos($content, $string6) !== false){
-        $content = str_replace($string6, $replace6, $content);
-    } else {
-        http_response_code(500);
-        die('Err : String6 not found!');
     }
 
 

@@ -1,9 +1,9 @@
 <?php
-$patch_name = 'Modification de traduction sur conference.php';
+$patch_name = 'Modification de traduction sur conference_home.php';
 
-echo 'Modification de traduction sur conference.php - ';
+echo 'Modification de traduction sur conference_home.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/conference.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/conference_home.php';
 
 $string1 = "dgettext('Conference', 'Conferences')";
 $replace1 = "Helper_Trans::translate('Page', 'Conferences')";
@@ -20,15 +20,6 @@ $replace4 = "Helper_Trans::translate('Page', 'Address:')";
 $string5 = "_('Phone :')";
 $replace5 = "Helper_Trans::translate('Page', 'Phone:')";
 
-$string6 = "</ul>";
-$replace6 = '   <?php if ($CONFERENCE->getFormatedFreeEntrace().$CONFERENCE->getFormatedTasting().$CONFERENCE->getFormatedReservation() != \'\') { ?>
-      <li><strong><?php echo Helper_Trans::translate(\'Page\', \'Additionnal informations:\'); ?></strong>
-      <?php echo $CONFERENCE->getFormatedFreeEntrace(); ?>
-      <?php echo $CONFERENCE->getFormatedTasting(); ?>
-      <?php echo $CONFERENCE->getFormatedReservation(); ?>
-      </li>
-   <?php }?>
-</ul>';
 
 $string7 = "_('Location :')";
 $replace7 = "Helper_Trans::translate('Page', 'Location:')";
@@ -73,13 +64,6 @@ if (file_exists($fileToPatch)) {
     } else {
         http_response_code(500);
         die('Err : String5 not found!');
-    }
-
-    if(strpos($content, $string6) !== false){
-        $content = str_replace($string6, $replace6, $content);
-    } else {
-        http_response_code(500);
-        die('Err : String6 not found!');
     }
 
     if(strpos($content, $string7) !== false){

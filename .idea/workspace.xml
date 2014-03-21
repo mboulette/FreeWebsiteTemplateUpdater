@@ -2,41 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d367a3-6569-44e2-9cb3-717712617ff0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-cl_404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-cl_listItMedia.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-cl_listTestimonial.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-cl_nous-joindre.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-conference.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-conference2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-conference_full.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-conference_home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-conference_home2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-conference_home3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-contactInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-itmedia_full.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-openningHours.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-sl_main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-testimonial.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-testimonial_full.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate-testimonial_home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate_cl_Product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/translate_footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/repo/FreeWebsiteTemplate" afterPath="$PROJECT_DIR$/web/repo/FreeWebsiteTemplate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/config.php" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/run.php" afterPath="$PROJECT_DIR$/web/run.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FreeWebsiteTemplateUpdater.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390310928592" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/css/idealtechnology.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387554036283" ignored="false" />
+    <file path="/Dummy.txt" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392926035221" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/css/idealtechnology.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393334441709" ignored="false" />
     <file path="/idealtechnology.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385493568018" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/idealtechnology.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488475912" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/idealtechnology.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277267005" ignored="false" />
     <file path="/config.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385495436074" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Content/cl_nous-joindre.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Content/cl_nous-joindre.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393346204105" ignored="false" />
     <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Widget/testimonial.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/Controller/ContactUs.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390509515378" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/Controller/ContactUs.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392912897393" ignored="false" />
     <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Structure/ml_default.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
     <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Content/cl_header.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387558770947" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/home.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/page.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/home.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011491536" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/page.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011491536" ignored="false" />
     <file path="/run.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385576900142" ignored="false" />
-    <file path="/idealtechnology.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387291380217" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_conference.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_temoignage.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_produit.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_bp-global.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_helpers.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_it-fonts.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390488500559" ignored="false" />
+    <file path="/idealtechnology.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393275070257" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_conference.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277262062" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_temoignage.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277262062" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_produit.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277069014" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_bp-global.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277262062" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_helpers.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277262062" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_it-fonts.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277262062" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Design/designFrontEnd.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385588483909" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Video/_partial/_form.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385588483909" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_fonts.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389111239232" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_base.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_navigation.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387222260079" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/backend.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390493006069" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_navigation.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393358821294" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/backend.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393362981285" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/common/_search.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386948545427" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Clinic/edit.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385588483909" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/DataFixtures/ORM/LoadUserData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/DataFixtures/ORM/LoadUserData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393346230007" ignored="false" />
     <file path="/LoadUserData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385589953901" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Entity/Clinic.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385645359175" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Controller/ClinicController.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385645518002" ignored="false" />
@@ -46,17 +67,17 @@
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Clinic/MY/_partial/_form.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385645970832" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/app/config/parameters.ini" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386790258675" ignored="false" />
     <file path="/parameters.ini" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385646042711" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/app/cache/dev/appDevDebugProjectContainer.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389716762950" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/app/cache/dev/appDevDebugProjectContainer.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393353987965" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/DataFixtures/ORM/LoadVideoData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385646576590" ignored="false" />
     <file path="/LoadVideoData.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385646570651" ignored="false" />
     <file path="/build.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386949215750" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/build.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/translations/cart.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386948545422" ignored="false" />
-    <file path="/a.dummy" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390513764961" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/translations/cart.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393363970800" ignored="false" />
+    <file path="/a.dummy" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393339141535" ignored="false" />
     <file path="/_navigation.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386175515243" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/_partial/_product.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386948545422" ignored="false" />
-    <file path="/_product.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385730853898" ignored="false" />
-    <file path="/backend.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389715883645" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/_partial/_product.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393361295388" ignored="false" />
+    <file path="/_product.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393361295388" ignored="false" />
+    <file path="/backend.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393361611671" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/show.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/config/menus.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389717699324" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/translations/menu.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
@@ -64,7 +85,7 @@
     <file path="/menus.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389716898565" ignored="false" />
     <file path="/show.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1385735203157" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/edit.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/web/css/backend.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389713570423" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/web/css/backend.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393363036917" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/history.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
     <file path="/history.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386099384447" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/index.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
@@ -93,8 +114,8 @@
     <file path="$PROJECT_DIR$/../itv/web/js/main.js" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/_partial/_print.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386270533154" ignored="false" />
     <file path="/_print.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386256578243" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_media.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386968564475" ignored="false" />
-    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_module.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389278135152" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_media.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393273919883" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_module.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393273919883" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealTechnology/framework/lib/module/BackEnd/src/View/cl_templates_selector.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390513013644" ignored="false" />
     <file path="/cl_templates_selector.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386959644607" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealTechnology/framework/config/routing.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386712316604" ignored="false" />
@@ -115,8 +136,8 @@
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/FAQBundle/Resources/views/FAQ/list.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/_settings.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386948545422" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Default/_partial/_home_dieter_welcome.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1389705596949" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/NewsBundle/Resources/views/News/_partial/_home_dieter.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
-    <file path="$PROJECT_DIR$/../itv/web/css/frontend.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387308590500" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/NewsBundle/Resources/views/News/_partial/_home_dieter.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393346230007" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/web/css/frontend.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393358790323" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/web/css/vendor.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1386952627675" ignored="false" />
     <file path="/ucl_accueil.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1387212571344" ignored="false" />
     <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/public/css/foundation/scss/foundation/section/_home-page.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390489194952" ignored="false" />
@@ -155,6 +176,78 @@
     <file path="$PROJECT_DIR$/../freewebsite/common/framework/locale/fr_CA/LC_MESSAGES/default.po" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390509515378" ignored="false" />
     <file path="$PROJECT_DIR$/../freewebsite/common/public_html/js/wt_scripts.js" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390509515378" ignored="false" />
     <file path="$PROJECT_DIR$/../IdealTechnology/framework/locale/fr_CA/fr_CA.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1390569914865" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/locale/fr_CA.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393334441709" ignored="false" />
+    <file path="/fr_CA.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392647746995" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/locale/en_US.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393334441709" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/Layout/Main.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011642076" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/config/Widget/home.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011979308" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/config/Widget/page.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011979308" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Content/cl_404.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392757629759" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/config/Widget/idealProtein.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011979308" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/config/Widget/contactUs.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011979308" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Content/cl_footer.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277262062" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/testimonial.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392925195977" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Content/cl_listItMedia.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392757629759" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Content/cl_nous-joindre.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277262062" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/idealProtein.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011491536" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/Widget/contactUs.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011491536" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Content/cl_Product.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392839472615" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Structure/sl_main.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392825404537" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/conference.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277262062" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/conference_full.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392824438848" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/contactInfo.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392839472615" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/itmedia_full.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392911878111" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/openningHours.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392911878111" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/openningHours_home.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392839823041" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/pageContent.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392904314405" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/testimonial_full.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392925517836" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Content/cl_header.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392911878111" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/testimonial_home.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392925195977" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Widget/conference_home.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392926035735" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/Breadcrumb.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392912463150" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/FilterableListing.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392912566920" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/Controller/404.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392912716193" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/Controller/Product.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392914351517" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Widget/conference_home.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392925517836" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Widget/locale/fr_CA.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392921261025" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Widget/locale/en_US.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392921292267" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Widget/src/PageContent.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392921322980" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/src/Helper/DateFormatter.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393008640706" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/locale/en_US.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392922053989" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/locale/fr_CA.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392998639048" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/src/Img/GD.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392922041806" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/framework/lib/module/Page/src/View/Content/cl_listTestimonial.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277262062" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Content/cl_listTestimonial.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011491536" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/View/Content/cl_footer.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011491536" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/db.inc.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1392999630301" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/config/locale.xml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393334441709" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/src/Core/Form/Field/Captcha.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393000633391" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/frontcontroller.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393334441709" ignored="false" />
+    <file path="/frontcontroller.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393000706541" ignored="false" />
+    <file path="/_media.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393001031391" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/Page/src/Layout/Main.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393011491536" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/template/public_html/scss/_960.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393277069014" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/public_html/scss/idealtechnology.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393248376351" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/public_html/scss/_960.scss" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393248376351" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/public_html/css/idealtechnology.css" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393248376351" ignored="false" />
+    <file path="/cl_nous-joindre.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393252268657" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/src/Helper/Trans.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393334441709" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/src/Core/Form/Form.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393334441709" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/ContactUs/src/Admin/View/contact_addmod.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393336676126" ignored="false" />
+    <file path="/contact_addmod.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393336676126" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/ContactForm/locale/en_US.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393339631015" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/ContactForm/locale/fr_CA.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393338557365" ignored="false" />
+    <file path="$PROJECT_DIR$/../freewebsite/common/framework/lib/module/ContactForm/src/Admin/View/contactform_show.php" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393338585426" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/NewsBundle/Resources/views/News/index.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393346230007" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/NewsBundle/Resources/translations/news.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393346230007" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/_partial/_setup_product.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393361856241" ignored="false" />
+    <file path="/_setup_product.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393361848294" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/setup_dieter.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393420709106" ignored="false" />
+    <file path="/setup_dieter.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393364464367" ignored="false" />
+    <file path="/cart.en.yml" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393363970800" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/Cart/setup.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393363647861" ignored="false" />
+    <file path="$PROJECT_DIR$/../itv/src/IdealProtein/ITVBundle/Resources/views/layout.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393422095146" ignored="false" />
+    <file path="/layout.html.twig" changelist="f8d367a3-6569-44e2-9cb3-717712617ff0" time="1393421934394" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,102 +271,159 @@
     <favorites_list name="FreeWebsiteTemplateUpdater" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="67" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/run.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="718" selection-end="718" vertical-scroll-proportion="0.34033614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="idealtechnology.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/repo/FreeWebsiteTemplate/public_html/css/idealtechnology.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1216" column="24" selection-start="30848" selection-end="30848" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1387547174000" expanded="true" signature="51424:51470" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1385582956000" expanded="true" signature="3006:3101" placeholder="..." />
-                <marker date="1385582956000" expanded="true" signature="3006:3093" placeholder="..." />
-                <marker date="1385582956000" expanded="true" signature="3006:3084" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/js/run.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Command.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/lib/PHPGit/Command.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="0" selection-start="1761" selection-end="1761" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/scripts/script.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ml_default.upd.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/scripts/ml_default.upd.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cl_nous-joindre.upd.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/scripts/cl_nous-joindre.upd.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1385492235000" expanded="true" signature="32:44" placeholder="..." />
-                <marker date="1385492235000" expanded="true" signature="45:527" placeholder="..." />
-                <marker date="1385492235000" expanded="false" signature="103:133" placeholder="..." />
-                <marker date="1385492235000" expanded="true" signature="134:500" placeholder="..." />
-                <marker date="1385492235000" expanded="true" signature="553:722" placeholder="..." />
-                <marker date="1385492235000" expanded="true" signature="751:896" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.3411434">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="run.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/run.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="26" column="40" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/web/config.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="57" selection-start="203" selection-end="203" vertical-scroll-proportion="0.05042017">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="idealtechnology.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/repo/FreeWebsiteTemplate/public_html/css/idealtechnology.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1712" column="0" selection-start="34474" selection-end="34474" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="12" column="0" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <marker date="1385582956000" expanded="false" signature="1012:1056" placeholder="..." />
+                    <marker date="1385582956000" expanded="true" signature="1057:1233" placeholder="..." />
+                    <marker date="1385582956000" expanded="true" signature="1066:1231" placeholder="..." />
+                    <marker date="1385582956000" expanded="true" signature="3006:3101" placeholder="..." />
+                    <marker date="1385582956000" expanded="true" signature="3006:3093" placeholder="..." />
+                    <marker date="1385582956000" expanded="true" signature="3006:3084" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="run.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/js/run.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="target-blank-menu.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/scripts/target-blank-menu.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="43" column="1" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="translate-testimonial.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/scripts/translate-testimonial.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="15" column="0" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <marker date="1392908784000" expanded="true" signature="510:562" placeholder="..." />
+                    <marker date="1392908784000" expanded="true" signature="646:698" placeholder="..." />
+                    <marker date="1392908784000" expanded="true" signature="803:855" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="translate-testimonial_home.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/scripts/translate-testimonial_home.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="42" column="0" selection-start="1883" selection-end="1883" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <marker date="1392911933000" expanded="true" signature="615:667" placeholder="..." />
+                    <marker date="1392911933000" expanded="true" signature="751:803" placeholder="..." />
+                    <marker date="1392911933000" expanded="true" signature="908:960" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="translate-conference.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="12" selection-start="467" selection-end="467" vertical-scroll-proportion="-8.75">
+                  <folding>
+                    <marker date="1392820650000" expanded="true" signature="866:1147" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="translate-conference2.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference2.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="27" column="32" selection-start="759" selection-end="759" vertical-scroll-proportion="-16.875">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="translate-conference_home.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference_home.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="23" column="24" selection-start="727" selection-end="727" vertical-scroll-proportion="-14.375">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="translate-conference_home3.php" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference_home3.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="20" column="5" selection-start="648" selection-end="648" vertical-scroll-proportion="0.2570694">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="translate-conference_home2.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference_home2.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="17" column="12" selection-start="579" selection-end="579" vertical-scroll-proportion="-10.625">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="translate-cl_listTestimonial.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/scripts/translate-cl_listTestimonial.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="8" column="73" selection-start="407" selection-end="407" vertical-scroll-proportion="-5.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -291,16 +441,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/web/scripts/translate-sl_main.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-conference.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-conference_full.php" />
+        <option value="$PROJECT_DIR$/web/scripts/contactInfo.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-contactInfo.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-itmedia_full.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-openningHours.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-testimonial_full.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-testimonial.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-testimonial_home.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-conference_home.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-conference_home2.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-cl_listTestimonial.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-conference2.php" />
         <option value="$PROJECT_DIR$/web/config.php" />
-        <option value="$PROJECT_DIR$/web/index.php" />
-        <option value="$PROJECT_DIR$/web/repo/FreeWebsiteTemplate/public_html/css/idealtechnology.css" />
-        <option value="$PROJECT_DIR$/web/run.php" />
+        <option value="$PROJECT_DIR$/web/scripts/translate-conference_home3.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="9" />
+    <option name="y" value="75" />
     <option name="width" value="2560" />
     <option name="height" value="1360" />
   </component>
@@ -330,6 +493,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -500,7 +664,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -508,9 +671,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../itv" />
     <property name="FullScreen" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/scripts" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <list size="0" />
@@ -542,14 +713,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="2560" height="1360" extended-state="6" />
+    <frame x="9" y="75" width="2560" height="1360" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23667462" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23667462" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14757359" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15234686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -632,124 +803,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/lib/PHPGit/Command.php">
+    <entry file="file://$PROJECT_DIR$/web/scripts/target-blank-menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="0" selection-start="1761" selection-end="1761" vertical-scroll-proportion="0.0">
+        <state line="43" column="1" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/script.php">
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-contactInfo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="51" column="0" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/ml_default.upd.php">
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-itmedia_full.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="84" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/cl_nous-joindre.upd.php">
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-openningHours.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="7" column="37" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-testimonial_full.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="201" selection-start="875" selection-end="875" vertical-scroll-proportion="0.18197574" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="38" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0882353" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-testimonial_home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1883" selection-end="1883" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1385492235000" expanded="true" signature="32:44" placeholder="..." />
-            <marker date="1385492235000" expanded="true" signature="45:527" placeholder="..." />
-            <marker date="1385492235000" expanded="false" signature="103:133" placeholder="..." />
-            <marker date="1385492235000" expanded="true" signature="134:500" placeholder="..." />
-            <marker date="1385492235000" expanded="true" signature="553:722" placeholder="..." />
-            <marker date="1385492235000" expanded="true" signature="751:896" placeholder="..." />
+            <marker date="1392911933000" expanded="true" signature="615:667" placeholder="..." />
+            <marker date="1392911933000" expanded="true" signature="751:803" placeholder="..." />
+            <marker date="1392911933000" expanded="true" signature="908:960" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/lib/PHPGit/Repository.php">
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-testimonial.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="15" column="0" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1392908784000" expanded="true" signature="510:562" placeholder="..." />
+            <marker date="1392908784000" expanded="true" signature="646:698" placeholder="..." />
+            <marker date="1392908784000" expanded="true" signature="803:855" placeholder="..." />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/lib/PHPGit/Configuration.php">
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-cl_listTestimonial.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="28" selection-start="1358" selection-end="1370" vertical-scroll-proportion="0.4327731" />
+        <state line="8" column="73" selection-start="407" selection-end="407" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="467" selection-end="467" vertical-scroll-proportion="-8.75">
+          <folding>
+            <marker date="1392820650000" expanded="true" signature="866:1147" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="32" selection-start="759" selection-end="759" vertical-scroll-proportion="-16.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference_home2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="579" selection-end="579" vertical-scroll-proportion="-10.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference_home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="24" selection-start="727" selection-end="727" vertical-scroll-proportion="-14.375">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="67" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
+        <state line="4" column="57" selection-start="203" selection-end="203" vertical-scroll-proportion="0.05042017">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/run.php">
+    <entry file="file://$PROJECT_DIR$/web/scripts/translate-conference_home3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="718" selection-end="718" vertical-scroll-proportion="0.34033614">
+        <state line="20" column="5" selection-start="648" selection-end="648" vertical-scroll-proportion="0.2570694">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/repo/FreeWebsiteTemplate/public_html/css/idealtechnology.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1216" column="24" selection-start="30848" selection-end="30848" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1387547174000" expanded="true" signature="51424:51470" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1385582956000" expanded="true" signature="3006:3101" placeholder="..." />
-            <marker date="1385582956000" expanded="true" signature="3006:3093" placeholder="..." />
-            <marker date="1385582956000" expanded="true" signature="3006:3084" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/run.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/lib/PHPGit/Command.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="0" selection-start="1761" selection-end="1761" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/script.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/ml_default.upd.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/cl_nous-joindre.upd.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1385492235000" expanded="true" signature="32:44" placeholder="..." />
-            <marker date="1385492235000" expanded="true" signature="45:527" placeholder="..." />
-            <marker date="1385492235000" expanded="false" signature="103:133" placeholder="..." />
-            <marker date="1385492235000" expanded="true" signature="134:500" placeholder="..." />
-            <marker date="1385492235000" expanded="true" signature="553:722" placeholder="..." />
-            <marker date="1385492235000" expanded="true" signature="751:896" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>

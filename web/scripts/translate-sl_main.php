@@ -1,9 +1,9 @@
 <?php
-$patch_name = 'Modification de traduction sur cl_Product.php';
+$patch_name = 'Modification de traduction sur sl_main.php';
 
-echo 'Modification de traduction sur cl_Product.php - ';
+echo 'Modification de traduction sur sl_main.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Content/cl_Product.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Structure/sl_main.php';
 
 $string1 = '_("Produit pour régime et amaigrissement")';
 $replace1 = "Helper_Trans::translate('Page', 'Product for diet and weight loss')";

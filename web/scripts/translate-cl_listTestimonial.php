@@ -1,12 +1,12 @@
 <?php
-$patch_name = 'Modification de traduction sur conference_home2.php';
+$patch_name = 'Modification de traduction sur cl_listTestimonial.php';
 
-echo 'Modification de traduction sur conference_home2.php - ';
+echo 'Modification de traduction sur cl_listTestimonial.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/conference_home.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Content/cl_listTestimonial.php';
 
-$string1 = "_('Additionnal informations:')";
-$replace1 = "Helper_Trans::translate('Page', 'Additionnal informations:')";
+$string1 = "Helper_Trans::translate('Page', 'No available testimonial')\");";
+$replace1 = "Helper_Trans::translate('Page', 'No available testimonial');";
 
 
 if (file_exists($fileToPatch)) {

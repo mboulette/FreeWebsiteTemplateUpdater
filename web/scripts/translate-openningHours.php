@@ -1,12 +1,12 @@
 <?php
-$patch_name = 'Modification de traduction sur itmedia_full.php';
+$patch_name = 'Modification de traduction sur openningHours.php';
 
-echo 'Modification de traduction sur itmedia_full.php - ';
+echo 'Modification de traduction sur openningHours.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/itmedia_full.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/openningHours_home.php';
 
-$string1 = "dgettext('ItMedia','Source :')";
-$replace1 = "Helper_Trans::translate('Page', 'Source:')";
+$string1 = "gettext('Openning Hours')";
+$replace1 = "Helper_Trans::translate('Page', 'Business Hours')";
 
 
 

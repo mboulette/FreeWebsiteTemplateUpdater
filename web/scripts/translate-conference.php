@@ -1,24 +1,40 @@
 <?php
-$patch_name = 'Modification de traduction sur cl_404.php';
+$patch_name = 'Modification de traduction sur conference.php';
 
-echo 'Modification de traduction sur cl_404.php - ';
+echo 'Modification de traduction sur conference.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Content/cl_listItMedia.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/conference.php';
 
-$string1 = "dgettext('ItMedia', 'On television')";
-$replace1 = "Helper_Trans::translate('Page', 'On television')";
+$string1 = "dgettext('Conference', 'Conferences')";
+$replace1 = "Helper_Trans::translate('Page', 'Conferences')";
 
-$string2 = '_("Close")';
-$replace2 = "Helper_Trans::translate('Page', 'Close')";
+$string2 = "_('Date :')";
+$replace2 = "Helper_Trans::translate('Page', 'Date:')";
 
-$string3 = '_("Read more")';
-$replace3 = "Helper_Trans::translate('Page', 'Read more')";
+$string3 = "_('Hour :')";
+$replace3 = "Helper_Trans::translate('Page', 'Hour :')";
 
-$string4 = "dgettext('ItMedia', 'On the radio')";
-$replace4 = "Helper_Trans::translate('Page', 'On the radio')";
+$string4 = "_('Address :')";
+$replace4 = "Helper_Trans::translate('Page', 'Address:')";
 
-$string5 = "dgettext('ItMedia', 'In the Press')";
-$replace5 = "Helper_Trans::translate('Page', 'In the Press')";
+$string5 = "_('Phone :')";
+$replace5 = "Helper_Trans::translate('Page', 'Phone:')";
+
+$string6 = "</ul>";
+$replace6 = '   <?php if ($CONFERENCE->getFormatedFreeEntrace().$CONFERENCE->getFormatedTasting().$CONFERENCE->getFormatedReservation() != \'\') { ?>
+      <li><strong><?php echo Helper_Trans::translate(\'Page\', \'Additionnal informations:\'); ?></strong>
+      <?php echo $CONFERENCE->getFormatedFreeEntrace(); ?>
+      <?php echo $CONFERENCE->getFormatedTasting(); ?>
+      <?php echo $CONFERENCE->getFormatedReservation(); ?>
+      </li>
+   <?php }?>
+</ul>';
+
+$string7 = "_('Location :')";
+$replace7 = "Helper_Trans::translate('Page', 'Location:')";
+
+$string8 = "dgettext('Conference', \"View all conference\")";
+$replace8 = "Helper_Trans::translate('Page', 'View all conference')";
 
 if (file_exists($fileToPatch)) {
 
@@ -57,6 +73,27 @@ if (file_exists($fileToPatch)) {
     } else {
         http_response_code(500);
         die('Err : String5 not found!');
+    }
+
+    if(strpos($content, $string6) !== false){
+        $content = str_replace($string6, $replace6, $content);
+    } else {
+        http_response_code(500);
+        die('Err : String6 not found!');
+    }
+
+    if(strpos($content, $string7) !== false){
+        $content = str_replace($string7, $replace7, $content);
+    } else {
+        http_response_code(500);
+        die('Err : String7 not found!');
+    }
+
+    if(strpos($content, $string8) !== false){
+        $content = str_replace($string8, $replace8, $content);
+    } else {
+        http_response_code(500);
+        die('Err : String8 not found!');
     }
 
     try {

@@ -1,21 +1,12 @@
 <?php
-$patch_name = 'Modification de traduction sur Main.php';
+$patch_name = 'Modification de traduction sur cl_footer.php';
 
-echo 'Modification de traduction sur Main.php - ';
+echo 'Modification de traduction sur cl_footer.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/Layout/Main.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Content/cl_footer.php';
 
-$string1 = "_('Page introuvable')";
-$replace1 = 'Helper_Trans::translate("Page", "API Communication Error")';
-
-$string2 = "_('Page introuvable La page que vous essayez d\'atteindre a été soit supprimé ou n\'existe pas.')";
-$replace2 = 'Helper_Trans::translate("Page", "API Communication Error")';
-
-$string3 = "_('Cliquez ici')";
-$replace3 = 'Helper_Trans::translate("Page", "API Communication Error")';
-
-$string4 = "_('pour retourner à la page d\'accueil.')";
-$replace4 = 'Helper_Trans::translate("Page", "API Communication Error")';
+$string1 = '_("Suivez-nous!")';
+$replace1 = "Helper_Trans::translate('Page', 'Follow us!')";
 
 if (file_exists($fileToPatch)) {
 

@@ -1,12 +1,12 @@
 <?php
-$patch_name = 'Modification de traduction sur Main.php';
+$patch_name = 'Modification de traduction sur itmedia_full.php';
 
-echo 'Modification de traduction sur Main.php - ';
+echo 'Modification de traduction sur itmedia_full.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/Layout/Main.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/itmedia_full.php';
 
-$string1 = "_('API Communication Error')";
-$replace1 = 'Helper_Trans::translate("Page", "API Communication Error")';
+$string1 = "dgettext('ItMedia','Source :')";
+$replace1 = "Helper_Trans::translate('Page', 'Source:')";
 
 
 

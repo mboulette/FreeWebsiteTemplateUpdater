@@ -1,14 +1,15 @@
 <?php
-$patch_name = 'Modification de traduction sur testimonial.php';
+$patch_name = 'Modification de traduction sur testimonial_home.php';
 
-echo 'Modification de traduction sur testimonial.php - ';
+echo 'Modification de traduction sur testimonial_home.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/testimonial.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Widget/testimonial_home.php';
 
-$string1 = '<?php echo dgettext(\'Testimonials\', \'Testimonials\'); ?>';
+
+$string1 = '<?php if (substr($_SESSION[\'internal\'][\'locale\']->getAbbr(), 0, 2)==\'en\') { echo \'Testimonials\'; } else { echo \'Témoignages\'; } ?>';
 $replace1 = "<?php echo Helper_Trans::translate('Page', 'Testimonials'); ?>";
 
-$string2 = '<?php if (substr($_SESSION[\'internal\'][\'locale\']->getAbbr(), 0, 2)) { echo \'<p class="disclaimers" style="font-size: 90%; margin-top: 7px; font-style: italic;">*Individual results may vary</p>\'; } else { echo \'<p class="disclaimers" style="font-size: 90%; margin-top: 7px; font-style: italic;">* Les résultats individuels peuvent varier</p>\'; } ?>';
+$string2 = '<?php if (substr($_SESSION[\'internal\'][\'locale\']->getAbbr(), 0, 2)==\'en\') { echo \'<p class="disclaimers" style="font-size: 90%; margin-top: 7px; font-style: italic;">*Individual results may vary</p>\'; } else { echo \'<p class="disclaimers" style="font-size: 90%; margin-top: 7px; font-style: italic;">* Les résultats individuels peuvent varier</p>\'; } ?>';
 $replace2 = "<p class=\"disclaimers\" style=\"font-size: 90%; margin-top: 7px; font-style: italic;\"><?php echo Helper_Trans::translate('Page', '*Individual results may vary'); ?></p>";
 
 $string3 = 'dgettext(\'Testimonial\', "View all testimonials")';
@@ -39,7 +40,6 @@ if (file_exists($fileToPatch)) {
         http_response_code(500);
         die('Err : String3 not found!');
     }
-
 
     try {
         file_put_contents($fileToPatch, $content);

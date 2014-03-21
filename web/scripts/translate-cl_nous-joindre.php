@@ -1,24 +1,32 @@
 <?php
-$patch_name = 'Modification de traduction sur cl_404.php';
+$patch_name = 'Modification de traduction sur cl_nous-joindre.php';
 
-echo 'Modification de traduction sur cl_404.php - ';
+echo 'Modification de traduction sur cl_nous-joindre.php - ';
 
-$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Content/cl_listItMedia.php';
+$fileToPatch = './repo/FreeWebsiteTemplate/framework/lib/module/Page/src/View/Content/cl_nous-joindre.php';
 
-$string1 = "dgettext('ItMedia', 'On television')";
-$replace1 = "Helper_Trans::translate('Page', 'On television')";
+$string1 = "gettext('Address')";
+$replace1 = "Helper_Trans::translate('Page', 'Address')";
 
-$string2 = '_("Close")';
-$replace2 = "Helper_Trans::translate('Page', 'Close')";
+$string2 = "gettext('Other location')";
+$replace2 = "Helper_Trans::translate('Page', 'Other location')";
 
-$string3 = '_("Read more")';
-$replace3 = "Helper_Trans::translate('Page', 'Read more')";
+$string3 = "gettext('Contact')";
+$replace3 = "Helper_Trans::translate('Page', 'Contact')";
 
-$string4 = "dgettext('ItMedia', 'On the radio')";
-$replace4 = "Helper_Trans::translate('Page', 'On the radio')";
+$string4 = '_("Téléphone")';
+$replace4 = "Helper_Trans::translate('Page', 'Phone')";
 
-$string5 = "dgettext('ItMedia', 'In the Press')";
-$replace5 = "Helper_Trans::translate('Page', 'In the Press')";
+$string5 = '_("Email")';
+$replace5 = "Helper_Trans::translate('Page', 'Email')";
+
+$string6 = "gettext('Contact Form')";
+$replace6 = "Helper_Trans::translate('Page', 'Contact Form')";
+
+$string7 = 'Google Map';
+$replace7 = "<?php echo Helper_Trans::translate('Page', 'Google Map'); ?>";
+
+
 
 if (file_exists($fileToPatch)) {
 
@@ -57,6 +65,20 @@ if (file_exists($fileToPatch)) {
     } else {
         http_response_code(500);
         die('Err : String5 not found!');
+    }
+
+    if(strpos($content, $string6) !== false){
+        $content = str_replace($string6, $replace6, $content);
+    } else {
+        http_response_code(500);
+        die('Err : String6 not found!');
+    }
+
+    if(strpos($content, $string7) !== false){
+        $content = str_replace($string7, $replace7, $content);
+    } else {
+        http_response_code(500);
+        die('Err : String7 not found!');
     }
 
     try {
