@@ -2,5 +2,5 @@
 
 //define("REPO_PATH", dirname(__FILE__).'/repo/TestFreeWebsiteBatch');
 define("REPO_PATH", dirname(__FILE__).'/repo/FreeWebsiteTemplate');
-define("SCRIPT_PATH", 'scripts/switch-zip-states.php');
+define("SCRIPT_PATH", 'scripts/target-blank-menu-vertical.php');
 ?>
