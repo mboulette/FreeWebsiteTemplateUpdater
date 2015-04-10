@@ -1,0 +1,22 @@
+{
+	"branche":"Esthetics_Spa_010-green",
+	"title":{
+		"fr_CA":"Clinique d\u2019esth\u00e9tique \/ Spa 10",
+		"en_US":"Esthetics \/ Spa 10",
+		"es_ES":"Esthetics \/ Spa 10"
+	},
+	"keyword":{
+		"fr_CA":"clinique, esth\u00e9tique, vert, rose, zen",
+		"en_US":"clinic, esthetic, green, pink, zen",
+		"es_ES":"clinic, esthetic, green, pink, zen"
+	},
+	"categories":[
+		"spa"
+	],
+	"colors":[
+		"gray",
+		"lightgreen"
+	],
+	"mobile":false,
+	"actif":true
+}

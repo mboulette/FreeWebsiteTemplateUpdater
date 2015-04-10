@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_017-pink",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 17",
+      "en_US":"Medical clinic 17",
+      "es_ES":"Medical clinic 17"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, femme, color\u00e9, blanc, rose",
+      "en_US":"clinic, medical, woman, coloured, white, pink",
+      "es_ES":"clinic, medical, woman, coloured, white, pink"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "pink"
+   ],
+   "mobile":false,
+   "actif":true
+}

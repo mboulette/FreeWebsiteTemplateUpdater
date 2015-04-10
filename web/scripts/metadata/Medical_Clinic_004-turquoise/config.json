@@ -1,0 +1,23 @@
+{
+   "branche":"Medical_Clinic_004-turquoise",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 4",
+      "en_US":"Medical clinic 4",
+      "es_ES":"Medical clinic 4"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, bleu, homme, \u00e9pur\u00e9, turquoise",
+      "en_US":"clinic, medical, blue, men, clean, turquoise",
+      "es_ES":"clinic, medical, blue, men, clean, turquoise"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "gray",
+      "turquoise",
+      "black"
+   ],
+   "mobile":false,
+   "actif":true
+}

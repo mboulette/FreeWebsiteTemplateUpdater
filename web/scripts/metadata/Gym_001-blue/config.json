@@ -1,0 +1,21 @@
+{
+   "branche":"Gym_001-blue",
+   "title":{
+      "fr_CA":"Gym 1",
+      "en_US":"Gym 1",
+      "es_ES":"Gym 1"
+   },
+   "keyword":{
+      "fr_CA":"gym, femme, forme, entrainement, bleu, \u00e9pur\u00e9",
+      "en_US":"gym, woman, shape, fit, training, blue, clean",
+      "es_ES":"gym, woman, shape, fit, training, blue, clean"
+   },
+   "categories":[
+      "gym"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

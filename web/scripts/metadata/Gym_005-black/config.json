@@ -1,0 +1,21 @@
+{
+   "branche":"Gym_005-black",
+   "title":{
+      "fr_CA":"Gym 5",
+      "en_US":"Gym 5",
+      "es_ES":"Gym 5"
+   },
+   "keyword":{
+      "fr_CA":"gym, femme, homme, forme, entrainement, noir, mauve",
+      "en_US":"gym, woman, man, shape, training, black, purple",
+      "es_ES":"gym, woman, man, shape, training, black, purple"
+   },
+   "categories":[
+      "gym"
+   ],
+   "colors":[
+      "black"
+   ],
+   "mobile":false,
+   "actif":true
+}

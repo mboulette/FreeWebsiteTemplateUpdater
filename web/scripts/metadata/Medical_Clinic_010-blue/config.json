@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_010-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 10",
+      "en_US":"Medical clinic 10",
+      "es_ES":"Medical clinic 10"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, femme, structur\u00e9, bleu",
+      "en_US":"clinic, medical, woman, structured, blue",
+      "es_ES":"clinic, medical, woman, structured, blue"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

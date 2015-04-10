@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_026-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 26",
+      "en_US":"Medical clinic 26",
+      "es_ES":"Medical clinic 26"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, bleu, chiropracticien, massage",
+      "en_US":"clinic, medical, blue, chiropractician, massage",
+      "es_ES":"clinic, medical, blue, chiropractician, massage"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

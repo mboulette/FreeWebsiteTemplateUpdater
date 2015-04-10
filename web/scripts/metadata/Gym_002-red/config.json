@@ -1,0 +1,21 @@
+{
+   "branche":"Gym_002-red",
+   "title":{
+      "fr_CA":"Gym 2",
+      "en_US":"Gym 2",
+      "es_ES":"Gym 2"
+   },
+   "keyword":{
+      "fr_CA":"gym, femme, homme, forme, entrainement, rouge, noir",
+      "en_US":"gym, woman, men, shape, fit, training, red, black",
+      "es_ES":"gym, woman, men, shape, fit, training, red, black"
+   },
+   "categories":[
+      "gym"
+   ],
+   "colors":[
+      "red"
+   ],
+   "mobile":false,
+   "actif":true
+}

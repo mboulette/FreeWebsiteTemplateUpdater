@@ -1,0 +1,21 @@
+{
+   "branche":"Gym_006-blue",
+   "title":{
+      "fr_CA":"Gym 6",
+      "en_US":"Gym 6",
+      "es_ES":"Gym 6"
+   },
+   "keyword":{
+      "fr_CA":"gym, femme, entra\u00eenement, bleu, bien-\u00eatre",
+      "en_US":"gym, woman, training, blue, well-being",
+      "es_ES":"gym, woman, training, blue, well-being"
+   },
+   "categories":[
+      "gym"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

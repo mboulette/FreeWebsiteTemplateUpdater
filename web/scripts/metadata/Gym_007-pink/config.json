@@ -1,0 +1,21 @@
+{
+   "branche":"Gym_007-pink",
+   "title":{
+      "fr_CA":"Gym 7",
+      "en_US":"Gym 7",
+      "es_ES":"Gym 7"
+   },
+   "keyword":{
+      "fr_CA":"gym, femme, homme, forme, entra\u00eenement, rose, vif, \u00e9clatant",
+      "en_US":"gym, woman, man, shape, training, pink, vivid, shiny",
+      "es_ES":"gym, woman, man, shape, training, pink, vivid, shiny"
+   },
+   "categories":[
+      "gym"
+   ],
+   "colors":[
+      "pink"
+   ],
+   "mobile":false,
+   "actif":true
+}

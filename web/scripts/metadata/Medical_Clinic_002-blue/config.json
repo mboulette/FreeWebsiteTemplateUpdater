@@ -1,0 +1,22 @@
+{
+   "branche":"Medical_Clinic_002-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 2",
+      "en_US":"Medical clinic 2",
+      "es_ES":"Medical clinic 2"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, bleu, homme, bande, \u00e9pur\u00e9, gris",
+      "en_US":"clinic, medical, blue, men, stripe, clean, grey",
+      "es_ES":"clinic, medical, blue, men , stripe, clean, grey"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "gray",
+      "lightblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

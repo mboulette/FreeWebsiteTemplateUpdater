@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_006-yellow",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 6",
+      "en_US":"Medical clinic 6",
+      "es_ES":"Medical clinic 6"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, femme, \u00e9pur\u00e9, jaune",
+      "en_US":"clinic, medical, yellow, woman, clean",
+      "es_ES":"clinic, medical, yellow, woman, clean"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "beige"
+   ],
+   "mobile":false,
+   "actif":true
+}

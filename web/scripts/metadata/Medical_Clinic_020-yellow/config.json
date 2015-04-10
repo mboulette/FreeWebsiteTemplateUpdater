@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_020-yellow",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 20",
+      "en_US":"Medical clinic 20",
+      "es_ES":"Medical clinic 20"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, jaune, dor\u00e9, couple, afro-am\u00e9ricain",
+      "en_US":"clinic, medical, yellow, golden, couple, afro-american",
+      "es_ES":"clinic, medical, yellow, golden, couple, afro-american"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "yellow"
+   ],
+   "mobile":false,
+   "actif":true
+}

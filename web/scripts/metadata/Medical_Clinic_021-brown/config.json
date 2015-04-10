@@ -1,0 +1,22 @@
+{
+   "branche":"Medical_Clinic_021-brown",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 21",
+      "en_US":"Medical clinic 21",
+      "es_ES":"Medical clinic 21"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, brun, bleu, femme, s\u00e9rieu, \u00e9tabli",
+      "en_US":"clinic, medical, brown, blue, woman, serious, established",
+      "es_ES":"clinic, medical, brown, blue, woman, serious, established"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "lightblue",
+      "brown"
+   ],
+   "mobile":false,
+   "actif":true
+}

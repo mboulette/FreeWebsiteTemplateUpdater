@@ -1,0 +1,22 @@
+{
+   "branche":"Gym_004-green",
+   "title":{
+      "fr_CA":"Gym 4",
+      "en_US":"Gym 4",
+      "es_ES":"Gym 4"
+   },
+   "keyword":{
+      "fr_CA":"gym, femme, homme, forme, entrainement, vert, noir",
+      "en_US":"gym, woman, men, shape, fit, training, vert, black",
+      "es_ES":"gym, woman, men, shape, fit, training, vert, black"
+   },
+   "categories":[
+      "gym"
+   ],
+   "colors":[
+      "darkgreen",
+      "black"
+   ],
+   "mobile":false,
+   "actif":true
+}

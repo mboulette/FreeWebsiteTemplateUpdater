@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_027-plum",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 27",
+      "en_US":"Medical clinic 27",
+      "es_ES":"Medical clinic 27"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, prune, professionnel, calme",
+      "en_US":"clinic, medical, plum, professionnal, calm",
+      "es_ES":"clinic, medical, plum, professionnal, calm"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "purple"
+   ],
+   "mobile":false,
+   "actif":true
+}

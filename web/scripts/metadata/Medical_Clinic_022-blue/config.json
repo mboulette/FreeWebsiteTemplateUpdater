@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_022-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 22",
+      "en_US":"Medical clinic 22",
+      "es_ES":"Medical clinic 22"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, bleu, sportif, action, techno",
+      "en_US":"clinic, medical, blue, sportive, action, techno",
+      "es_ES":"clinic, medical, blue, sportive, action, techno"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}
