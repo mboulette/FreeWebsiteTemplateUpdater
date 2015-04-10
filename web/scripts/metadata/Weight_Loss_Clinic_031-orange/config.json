@@ -1,0 +1,22 @@
+{
+   "branche":"Weight_Loss_Clinic_031-orange",
+   "title":{
+      "fr_CA":"Centre de perte de poids 31",
+      "en_US":"Weight Loss clinic 31",
+      "es_ES":"Weight Loss clinic 31"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, orange, femme, homme, ensoleill\u00e9, vif",
+      "en_US":"loss, weight, orange, woman, man, sunny, vivid",
+      "es_ES":"loss, weight, orange, woman, man, sunny, vivid"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "orange",
+      "yellow"
+   ],
+   "mobile":false,
+   "actif":true
+}

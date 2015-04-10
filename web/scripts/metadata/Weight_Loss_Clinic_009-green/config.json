@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_009-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 9",
+      "en_US":"Weight Loss clinic 9",
+      "es_ES":"Weight Loss clinic 9"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, couple, fond sombre",
+      "en_US":"loss, weight, green, couple, dark background",
+      "es_ES":"loss, weight, green, couple, dark background"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

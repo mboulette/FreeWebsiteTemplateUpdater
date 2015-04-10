@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_028-mauve",
+   "title":{
+      "fr_CA":"Centre de perte de poids 28",
+      "en_US":"Weight Loss clinic 28",
+      "es_ES":"Weight Loss clinic 28"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, mauve, femme, f\u00e9minin, d\u00e9licat",
+      "en_US":"loss, weight, mauve, woman, feminine, delicate",
+      "es_ES":"loss, weight, mauve, woman, feminine, delicate"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "purple"
+   ],
+   "mobile":false,
+   "actif":true
+}

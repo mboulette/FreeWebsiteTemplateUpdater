@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_033-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 33",
+      "en_US":"Weight Loss clinic 33",
+      "es_ES":"Weight Loss clinic 33"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, l\u00e9ger, confortable",
+      "en_US":"loss, weight, green, woman, light, comfortable",
+      "es_ES":"loss, weight, green, woman, light, comfortable"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "lightgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

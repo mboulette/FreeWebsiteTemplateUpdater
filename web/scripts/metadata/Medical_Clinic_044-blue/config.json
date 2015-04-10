@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_044-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 44",
+      "en_US":"Medical clinic 44",
+      "es_ES":"Medical clinic 44"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, bleu, femme, homme, lumineux, l\u00e9ger",
+      "en_US":"clinic, medical, blue, woman, man, luminous, light",
+      "es_ES":"clinic, medical, blue, woman, man, luminous, light"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "lightblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

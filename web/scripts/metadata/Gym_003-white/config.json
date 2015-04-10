@@ -1,0 +1,22 @@
+{
+   "branche":"Gym_003-white",
+   "title":{
+      "fr_CA":"Gym 3",
+      "en_US":"Gym 3",
+      "es_ES":"Gym 3"
+   },
+   "keyword":{
+      "fr_CA":"gym, femme, forme, entrainement, rose, noir",
+      "en_US":"gym, woman, shape, fit, training, pink, black",
+      "es_ES":"gym, woman, shape, fit, training, pink, black"
+   },
+   "categories":[
+      "gym"
+   ],
+   "colors":[
+      "gray",
+      "pink"
+   ],
+   "mobile":false,
+   "actif":true
+}

@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_018-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 18",
+      "en_US":"Weight Loss clinic 18",
+      "es_ES":"Weight Loss clinic 18"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, l\u00e9ger",
+      "en_US":"loss, weight, green, woman, light",
+      "es_ES":"loss, weight, green, woman, light"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "lightgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_028-green",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 28",
+      "en_US":"Medical clinic 28",
+      "es_ES":"Medical clinic 28"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, vert, kin\u00e9sith\u00e9rapeute, intervention",
+      "en_US":"clinic, medical, green, kinesitherapist, intervention",
+      "es_ES":"clinic, medical, green, kinesitherapist, intervention"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

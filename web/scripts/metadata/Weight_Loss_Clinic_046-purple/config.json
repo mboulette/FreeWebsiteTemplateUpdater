@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_046-purple",
+   "title":{
+      "fr_CA":"Centre de perte de poids 46",
+      "en_US":"Weight Loss clinic 46",
+      "es_ES":"Weight Loss clinic 46"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, mauve, femme, simple, sobre, l\u00e9ger",
+      "en_US":"loss, weight, purple, woman, simple, clean, light",
+      "es_ES":"loss, weight, purple, woman, simple, clean, light"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "purple"
+   ],
+   "mobile":false,
+   "actif":true
+}

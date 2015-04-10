@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_041-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 41",
+      "en_US":"Weight Loss clinic 41",
+      "es_ES":"Weight Loss clinic 41"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, homme, l\u00e9ger, clair",
+      "en_US":"loss, weight, green, woman, man, light, clear",
+      "es_ES":"loss, weight, green, woman, man, light, clear"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

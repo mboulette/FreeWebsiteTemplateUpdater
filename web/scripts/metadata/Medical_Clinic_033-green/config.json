@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_033-green",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 33",
+      "en_US":"Medical clinic 33",
+      "es_ES":"Medical clinic 33"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, vert, client, remerciements",
+      "en_US":"clinic, medical, green, customer, thanks",
+      "es_ES":"clinic, medical, green, customer, thanks"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "turquoise"
+   ],
+   "mobile":false,
+   "actif":true
+}

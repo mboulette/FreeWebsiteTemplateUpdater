@@ -1,0 +1,22 @@
+{
+   "branche":"Medical_Clinic_019-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 19",
+      "en_US":"Medical clinic 19",
+      "es_ES":"Medical clinic 19"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, professionnel, th\u00e9rapeute, massage",
+      "en_US":"clinic, medical, professionnal, therapeutist, massage",
+      "es_ES":"clinic, medical, professionnal, therapeutist, massage"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "lightblue",
+      "beige"
+   ],
+   "mobile":false,
+   "actif":true
+}

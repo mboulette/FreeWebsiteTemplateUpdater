@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_019-mauve",
+   "title":{
+      "fr_CA":"Centre de perte de poids 19",
+      "en_US":"Weight Loss clinic 19",
+      "es_ES":"Weight Loss clinic 19"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, mauve, jaune, femme, l\u00e9ger",
+      "en_US":"loss, weight, mauve, yellow, woman, light",
+      "es_ES":"loss, weight, mauve, yellow, woman, light"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "purple"
+   ],
+   "mobile":false,
+   "actif":true
+}

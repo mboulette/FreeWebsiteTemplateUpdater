@@ -1,0 +1,22 @@
+{
+   "branche":"Weight_Loss_Clinic_017-gray",
+   "title":{
+      "fr_CA":"Centre de perte de poids 17",
+      "en_US":"Weight Loss clinic 17",
+      "es_ES":"Weight Loss clinic 17"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, gris, vert, femme",
+      "en_US":"loss, weight, gray, green, woman",
+      "es_ES":"loss, weight, gray, green, woman"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "gray",
+      "black"
+   ],
+   "mobile":false,
+   "actif":true
+}

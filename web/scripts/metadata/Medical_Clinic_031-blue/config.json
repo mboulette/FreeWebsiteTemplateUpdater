@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_031-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 31",
+      "en_US":"Medical clinic 31",
+      "es_ES":"Medical clinic 31"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, bleu, accueillant, structur\u00e9",
+      "en_US":"clinic, medical, blue, accommodating, structured",
+      "es_ES":"clinic, medical, blue, accommodating, structured"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

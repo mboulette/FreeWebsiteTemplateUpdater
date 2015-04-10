@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_039-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 39",
+      "en_US":"Weight Loss clinic 39",
+      "es_ES":"Weight Loss clinic 39"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, \u00e9t\u00e9, frais, vif",
+      "en_US":"loss, weight, green, woman, summer, fresh, vivid",
+      "es_ES":"loss, weight, green, woman, summer, fresh, vivid"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "lightgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_044-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 44",
+      "en_US":"Weight Loss clinic 44",
+      "es_ES":"Weight Loss clinic 44"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, s\u00e9rieux, neutre, professionnel",
+      "en_US":"loss, weight, green, woman, serious, neutral, professionnal",
+      "es_ES":"loss, weight, green, woman, serious, neutral, professionnal"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

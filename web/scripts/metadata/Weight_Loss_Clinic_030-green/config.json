@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_030-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 30",
+      "en_US":"Weight Loss clinic 30",
+      "es_ES":"Weight Loss clinic 30"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, homme, femme, nature, lumineux",
+      "en_US":"loss, weight, green, man, woman, nature, luminous",
+      "es_ES":"loss, weight, green, man, woman, nature, luminous"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

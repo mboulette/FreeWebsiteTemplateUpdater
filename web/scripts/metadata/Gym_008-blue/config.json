@@ -1,0 +1,21 @@
+{
+   "branche":"Gym_008-blue",
+   "title":{
+      "fr_CA":"Gym 8",
+      "en_US":"Gym 8",
+      "es_ES":"Gym 8"
+   },
+   "keyword":{
+      "fr_CA":"gym, femme, bleu, entra\u00eenement, groupe, sombre",
+      "en_US":"gym, woman, blue, training, group, dark",
+      "es_ES":"gym, woman, blue, training, group, dark"
+   },
+   "categories":[
+      "gym"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

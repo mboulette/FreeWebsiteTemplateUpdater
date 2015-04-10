@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_037-mauve",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 37",
+      "en_US":"Medical clinic 37",
+      "es_ES":"Medical clinic 37"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, mauve, l\u00e9ger, f\u00e9minin",
+      "en_US":"clinic, medical, mauve, light, feminine",
+      "es_ES":"clinic, medical, mauve, light, feminine"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "purple"
+   ],
+   "mobile":false,
+   "actif":true
+}

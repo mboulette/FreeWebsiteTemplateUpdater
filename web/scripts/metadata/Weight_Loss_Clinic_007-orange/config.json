@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_007-orange",
+   "title":{
+      "fr_CA":"Centre de perte de poids 7",
+      "en_US":"Weight Loss clinic 7",
+      "es_ES":"Weight Loss clinic 7"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, femme, orange, bien-\u00eatre, chaleureux",
+      "en_US":"loss, weight, woman, orange, wellbeing, cordial",
+      "es_ES":"loss, weight, woman, orange, wellbeing, cordial"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "orange"
+   ],
+   "mobile":false,
+   "actif":true
+}

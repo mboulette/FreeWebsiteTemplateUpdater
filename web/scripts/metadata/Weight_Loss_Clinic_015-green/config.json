@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_015-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 15",
+      "en_US":"Weight Loss clinic 15",
+      "es_ES":"Weight Loss clinic 15"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, \u00e9pur\u00e9, femme, sobre",
+      "en_US":"loss, weight, green, clean, woman, sober",
+      "es_ES":"loss, weight, green, clean, woman, sober"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

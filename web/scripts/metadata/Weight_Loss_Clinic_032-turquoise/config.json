@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_032-turquoise",
+   "title":{
+      "fr_CA":"Centre de perte de poids 32",
+      "en_US":"Weight Loss clinic 32",
+      "es_ES":"Weight Loss clinic 32"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, turquoise, femme, ruban, naturel",
+      "en_US":"loss, weight, turquoise, woman, tape, natural",
+      "es_ES":"loss, weight, turquoise, woman, tape, natural"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "turquoise"
+   ],
+   "mobile":false,
+   "actif":true
+}

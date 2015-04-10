@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_036-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 36",
+      "en_US":"Weight Loss clinic 36",
+      "es_ES":"Weight Loss clinic 36"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, homme, vif, confort, bien-\u00eatre",
+      "en_US":"loss, weight, green, woman, man, vivid, comfort, wellbeing",
+      "es_ES":"loss, weight, green, woman, man, vivid, comfort, wellbeing"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

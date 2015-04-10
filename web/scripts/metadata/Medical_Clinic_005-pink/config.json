@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_005-pink",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 5",
+      "en_US":"Medical clinic 5",
+      "es_ES":"Medical clinic 5"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, homme, \u00e9pur\u00e9, rose",
+      "en_US":"clinic, medical, pink, men, clean",
+      "es_ES":"clinic, medical, pink, men, clean"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "pink"
+   ],
+   "mobile":false,
+   "actif":true
+}

@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_011-blue_green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 11",
+      "en_US":"Weight Loss clinic 11",
+      "es_ES":"Weight Loss clinic 11"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, bleu, vert, doux, femme",
+      "en_US":"loss, weight, blue, green, soft, woman",
+      "es_ES":"loss, weight, blue, green, soft, woman"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "turquoise"
+   ],
+   "mobile":false,
+   "actif":true
+}

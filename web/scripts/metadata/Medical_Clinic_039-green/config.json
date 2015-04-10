@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_039-green",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 39",
+      "en_US":"Medical clinic 39",
+      "es_ES":"Medical clinic 39"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, vert, \u00e9pur\u00e9, physioth\u00e9rapie",
+      "en_US":"clinic, medical, green, clean, physiotherapy",
+      "es_ES":"clinic, medical, green, clean, physiotherapy"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

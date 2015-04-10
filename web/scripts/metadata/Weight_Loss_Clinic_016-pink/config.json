@@ -1,0 +1,22 @@
+{
+   "branche":"Weight_Loss_Clinic_016-pink",
+   "title":{
+      "fr_CA":"Centre de perte de poids 16",
+      "en_US":"Weight Loss clinic 16",
+      "es_ES":"Weight Loss clinic 16"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, rose, \u00e9pur\u00e9, femme, fleurs",
+      "en_US":"loss, weight, pink, clean, woman, flowers",
+      "es_ES":"loss, weight, pink, clean, woman, flowers"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "purple",
+      "pink"
+   ],
+   "mobile":false,
+   "actif":true
+}

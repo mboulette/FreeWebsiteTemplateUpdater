@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_035-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 35",
+      "en_US":"Weight Loss clinic 35",
+      "es_ES":"Weight Loss clinic 35"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, l\u00e9ger, bo\u00eetes",
+      "en_US":"loss, weight, green, woman, light, boxes",
+      "es_ES":"loss, weight, green, woman, light, boxes"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "lightgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

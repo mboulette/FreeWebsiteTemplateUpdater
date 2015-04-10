@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_041-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 41",
+      "en_US":"Medical clinic 41",
+      "es_ES":"Medical clinic 41"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, bleu, \u00e9quipe, dialogue, discussion",
+      "en_US":"clinic, medical, blue, team, dialogue, discussion",
+      "es_ES":"clinic, medical, blue, team, dialogue, discussion"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

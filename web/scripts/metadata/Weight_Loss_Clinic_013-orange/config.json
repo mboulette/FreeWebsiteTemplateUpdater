@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_013-orange",
+   "title":{
+      "fr_CA":"Centre de perte de poids 13",
+      "en_US":"Weight Loss clinic 13",
+      "es_ES":"Weight Loss clinic 13"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, orange, sepia, frais, sant\u00e9",
+      "en_US":"loss, weight, orange, sepia, fresh, health",
+      "es_ES":"loss, weight, orange, sepia, fresh, health"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "orange"
+   ],
+   "mobile":false,
+   "actif":true
+}

@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_003-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 3",
+      "en_US":"Medical clinic 3",
+      "es_ES":"Medical clinic 3"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, bleu, homme, \u00e9pur\u00e9",
+      "en_US":"clinic, medical, blue, men, clean",
+      "es_ES":"clinic, medical, blue, men, clean"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "lightblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

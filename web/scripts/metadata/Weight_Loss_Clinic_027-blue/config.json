@@ -1,0 +1,22 @@
+{
+   "branche":"Weight_Loss_Clinic_027-blue",
+   "title":{
+      "fr_CA":"Centre de perte de poids 27",
+      "en_US":"Weight Loss clinic 27",
+      "es_ES":"Weight Loss clinic 27"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, bleu, ventre, ruban, simple",
+      "en_US":"loss, weight, blue, tummy, tape, simple",
+      "es_ES":"loss, weight, blue, tummy, tape, simple"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen",
+      "lightblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

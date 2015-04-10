@@ -1,0 +1,22 @@
+{
+   "branche":"Weight_Loss_Clinic_012-yellow",
+   "title":{
+      "fr_CA":"Centre de perte de poids 12",
+      "en_US":"Weight Loss clinic 12",
+      "es_ES":"Weight Loss clinic 12"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, jaune, rose, ensoleill\u00e9, bien-\u00eatre, sant\u00e9",
+      "en_US":"loss, weight, yellow, pink, sunny, wellbeing, health",
+      "es_ES":"loss, weight, yellow, pink, sunny, wellbeing, health"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "pink",
+      "yellow"
+   ],
+   "mobile":false,
+   "actif":true
+}

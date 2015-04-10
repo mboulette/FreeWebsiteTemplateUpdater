@@ -1,0 +1,22 @@
+{
+   "branche":"Weight_Loss_Clinic_022-orange",
+   "title":{
+      "fr_CA":"Centre de perte de poids 22",
+      "en_US":"Weight Loss clinic 22",
+      "es_ES":"Weight Loss clinic 22"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, orange, homme, chaleureux, confortable",
+      "en_US":"loss, weight, orange, man, cordial, comfortable",
+      "es_ES":"loss, weight, orange, man, cordial, comfortable"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "orange",
+      "yellow"
+   ],
+   "mobile":false,
+   "actif":true
+}

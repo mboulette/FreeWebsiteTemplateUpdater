@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_042-green",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 42",
+      "en_US":"Medical clinic 42",
+      "es_ES":"Medical clinic 42"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, vert, professionnel, \u00e9quipe, sant\u00e9",
+      "en_US":"clinic, medical, green, professionnal, team, health",
+      "es_ES":"clinic, medical, green, professionnal, team, health"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

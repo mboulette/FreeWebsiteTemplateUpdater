@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_026-blue",
+   "title":{
+      "fr_CA":"Centre de perte de poids 26",
+      "en_US":"Weight Loss clinic 26",
+      "es_ES":"Weight Loss clinic 26"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, bleu, p\u00e8se-personne, mesure, frais",
+      "en_US":"loss, weight, green, blue, scale, measure, fresh",
+      "es_ES":"p\u00e9rdida, peso, color verde, escala, medida, fresco"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

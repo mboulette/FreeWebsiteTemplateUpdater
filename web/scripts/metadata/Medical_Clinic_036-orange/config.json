@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_036-orange",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 36",
+      "en_US":"Medical clinic 36",
+      "es_ES":"Medical clinic 36"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, orange, vivant, dynamique, l\u00e9ger",
+      "en_US":"clinic, medical, orange, living, dynamic, light",
+      "es_ES":"clinic, medical, orange, living, dynamic, light"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "orange"
+   ],
+   "mobile":false,
+   "actif":true
+}

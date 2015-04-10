@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_025-yellow",
+   "title":{
+      "fr_CA":"Centre de perte de poids 25",
+      "en_US":"Weight Loss clinic 25",
+      "es_ES":"Weight Loss clinic 25"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, jaune, femme, p\u00e8se-personne, vivant, lumineux",
+      "en_US":"loss, weight, yellow, woman, scale, living, light",
+      "es_ES":"loss, weight, yellow, woman, scale, living, light"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "yellow"
+   ],
+   "mobile":false,
+   "actif":true
+}

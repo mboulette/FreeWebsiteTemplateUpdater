@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_013-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 13",
+      "en_US":"Medical clinic 13",
+      "es_ES":"Medical clinic 13"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, groupe, frais, vert",
+      "en_US":"clinic, medical, group, fresh, green",
+      "es_ES":"clinic, medical, group, fresh, green"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "lightblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

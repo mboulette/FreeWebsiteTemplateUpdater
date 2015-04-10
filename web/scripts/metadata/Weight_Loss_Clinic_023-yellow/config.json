@@ -1,0 +1,22 @@
+{
+   "branche":"Weight_Loss_Clinic_023-yellow",
+   "title":{
+      "fr_CA":"Centre de perte de poids 23",
+      "en_US":"Weight Loss clinic 23",
+      "es_ES":"Weight Loss clinic 23"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, rouge, femme, sant\u00e9, \u00e9pur\u00e9",
+      "en_US":"loss, weight, red, woman, health, clean",
+      "es_ES":"loss, weight, red, woman, health, clean"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkblue",
+      "yellow"
+   ],
+   "mobile":false,
+   "actif":true
+}

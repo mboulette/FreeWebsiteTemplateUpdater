@@ -1,0 +1,21 @@
+{
+   "branche":"Esthetics_Spa_012-green",
+   "title":{
+      "fr_CA":"Clinique d\u2019esth\u00e9tique \/ Spa 12",
+      "en_US":"Esthetics \/ Spa 12",
+      "es_ES":"Esthetics \/ Spa 12"
+   },
+   "keyword":{
+      "fr_CA":"clinique, esth\u00e9tique, spa, vert, femme, relaxation, zen",
+      "en_US":"clinic, esthetic, spa, green, woman, relaxation, zen",
+      "es_ES":"clinic, esthetic, spa, green, woman, relaxation, zen"
+   },
+   "categories":[
+      "spa"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_015-white",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 15",
+      "en_US":"Medical clinic 15",
+      "es_ES":"Medical clinic 15"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, femme, color\u00e9, vif, blanc",
+      "en_US":"clinic, medical, woman, coloured, vivid, white",
+      "es_ES":"clinic, medical, woman, coloured, vivid, white"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "gray"
+   ],
+   "mobile":false,
+   "actif":true
+}

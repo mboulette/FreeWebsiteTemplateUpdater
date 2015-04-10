@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_006-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 6",
+      "en_US":"Weight Loss clinic 6",
+      "es_ES":"Weight Loss clinic 6"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, taille, frais",
+      "en_US":"loss, weight, green, waist, fresh",
+      "es_ES":"loss, weight, green, waist, fresh"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

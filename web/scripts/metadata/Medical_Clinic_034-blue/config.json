@@ -1,0 +1,21 @@
+{
+   "branche":"Medical_Clinic_034-blue",
+   "title":{
+      "fr_CA":"Clinique m\u00e9dicale 34",
+      "en_US":"Medical clinic 34",
+      "es_ES":"Medical clinic 34"
+   },
+   "keyword":{
+      "fr_CA":"clinique, m\u00e9dicale, bleu, \u00e9pur\u00e9, simple, minimaliste",
+      "en_US":"clinic, medical, blue, clean, simple, minimalist",
+      "es_ES":"clinic, medical, blue, clean, simple, minimalist"
+   },
+   "categories":[
+      "medical"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

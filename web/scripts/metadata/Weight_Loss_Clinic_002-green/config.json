@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_002-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 2",
+      "en_US":"Weight Loss clinic 2",
+      "es_ES":"Weight Loss clinic 2"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, \u00e9pur\u00e9, centre",
+      "en_US":"loss, weight, green, woman, clean, clinic",
+      "es_ES":"loss, weight, green, woman, clean, clinic"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

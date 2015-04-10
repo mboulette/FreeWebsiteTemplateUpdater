@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_034-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 34",
+      "en_US":"Weight Loss clinic 34",
+      "es_ES":"Weight Loss clinic 34"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, sant\u00e9, di\u00e8te",
+      "en_US":"loss, weight, green, woman, health, diet",
+      "es_ES":"loss, weight, green, woman, health, diet"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

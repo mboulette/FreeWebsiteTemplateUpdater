@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_003-blue",
+   "title":{
+      "fr_CA":"Centre de perte de poids 3",
+      "en_US":"Weight Loss clinic 3",
+      "es_ES":"Weight Loss clinic 3"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, bleu, femme, \u00e9pur\u00e9, centre, fleur",
+      "en_US":"loss, weight, blue, woman, clean, clinic, flower",
+      "es_ES":"loss, weight, blue, woman, clean, clinic"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "lightblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

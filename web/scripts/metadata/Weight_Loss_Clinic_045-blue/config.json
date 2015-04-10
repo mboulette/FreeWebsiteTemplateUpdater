@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_045-blue",
+   "title":{
+      "fr_CA":"Centre de perte de poids 45",
+      "en_US":"Weight Loss clinic 45",
+      "es_ES":"Weight Loss clinic 45"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, bleu, femme, vif, taille, jeans",
+      "en_US":"loss, weight, blue, woman, vivid, waist, jeans",
+      "es_ES":"loss, weight, blue, woman, vivid, waist, jeans"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

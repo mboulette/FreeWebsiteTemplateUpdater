@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_037-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 37",
+      "en_US":"Weight Loss clinic 37",
+      "es_ES":"Weight Loss clinic 37"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, lumineux, l\u00e9ger, \u00e9pur\u00e9",
+      "en_US":"loss, weight, green, woman, luminous, light, clean",
+      "es_ES":"loss, weight, green, woman, luminous, light, clean"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

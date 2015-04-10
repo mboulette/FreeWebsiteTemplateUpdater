@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_040-purple",
+   "title":{
+      "fr_CA":"Centre de perte de poids 40",
+      "en_US":"Weight Loss clinic 40",
+      "es_ES":"Weight Loss clinic 40"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, mauve, femme, balance, ruban, doux",
+      "en_US":"loss, weight, purple, woman, scale, tape, soft",
+      "es_ES":"loss, weight, purple, woman, scale, tape, soft"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "purple"
+   ],
+   "mobile":false,
+   "actif":true
+}

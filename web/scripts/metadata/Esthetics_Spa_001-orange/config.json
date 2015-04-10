@@ -1,0 +1,21 @@
+{
+   "branche":"Esthetics_Spa_001-orange",
+   "title":{
+      "fr_CA":"Clinique d\u2019esth\u00e9tique \/ Spa 1",
+      "en_US":"Esthetics \/ Spa 1",
+      "es_ES":"Esthetics \/ Spa 1"
+   },
+   "keyword":{
+      "fr_CA":"orange, fille, relax, spa, cliqnique, esth\u00e9tique, brun",
+      "en_US":"orange, woman, relax, spa, clinic, esthetics, brown",
+      "es_ES":"orange, woman, relax, spa, clinic, esthetics, brown"
+   },
+   "categories":[
+      "spa"
+   ],
+   "colors":[
+      "orange"
+   ],
+   "mobile":false,
+   "actif":true
+}

@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_010-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 10",
+      "en_US":"Weight Loss clinic 10",
+      "es_ES":"Weight Loss clinic 10"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, vif, frais, \u00e9pur\u00e9",
+      "en_US":"loss, weight, green, vivid, fresh, clean",
+      "es_ES":"loss, weight, green, vivid, fresh, clean"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

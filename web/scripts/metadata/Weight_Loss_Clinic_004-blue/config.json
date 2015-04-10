@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_004-blue",
+   "title":{
+      "fr_CA":"Centre de perte de poids 4",
+      "en_US":"Weight Loss clinic 4",
+      "es_ES":"Weight Loss clinic 4"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, bleu, femme, \u00e9pur\u00e9, sobre",
+      "en_US":"loss, weight, blue, woman, clean, sober",
+      "es_ES":"loss, weight, blue, woman, clean, sober"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

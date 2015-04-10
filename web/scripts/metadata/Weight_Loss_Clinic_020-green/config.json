@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_020-green",
+   "title":{
+      "fr_CA":"Centre de perte de poids 20",
+      "en_US":"Weight Loss clinic 20",
+      "es_ES":"Weight Loss clinic 20"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, vert, femme, zen, naturel, chaleur",
+      "en_US":"loss, weight, green, woman, zen, natural, heat",
+      "es_ES":"loss, weight, green, woman, zen, natural, heat"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "darkgreen"
+   ],
+   "mobile":false,
+   "actif":true
+}

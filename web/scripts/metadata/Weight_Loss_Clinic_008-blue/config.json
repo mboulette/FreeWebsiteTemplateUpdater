@@ -1,0 +1,22 @@
+{
+   "branche":"Weight_Loss_Clinic_008-blue",
+   "title":{
+      "fr_CA":"Centre de perte de poids 8",
+      "en_US":"Weight Loss clinic 8",
+      "es_ES":"Weight Loss clinic 8"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, bleu, couple, frais",
+      "en_US":"loss, weight, blue, couple, fresh",
+      "es_ES":"loss, weight, blue, couple, fresh"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "lightblue",
+      "darkblue"
+   ],
+   "mobile":false,
+   "actif":true
+}

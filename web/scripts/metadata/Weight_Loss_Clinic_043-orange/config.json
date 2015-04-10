@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_043-orange",
+   "title":{
+      "fr_CA":"Centre de perte de poids 43",
+      "en_US":"Weight Loss clinic 43",
+      "es_ES":"Weight Loss clinic 43"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, orange, femme, lumineux, simple",
+      "en_US":"loss, weight, orange, woman, luminous, simple",
+      "es_ES":"loss, weight, orange, woman, luminous, simple"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "orange"
+   ],
+   "mobile":false,
+   "actif":true
+}

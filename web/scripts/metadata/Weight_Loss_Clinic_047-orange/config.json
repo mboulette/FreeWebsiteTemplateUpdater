@@ -1,0 +1,21 @@
+{
+   "branche":"Weight_Loss_Clinic_047-orange",
+   "title":{
+      "fr_CA":"Centre de perte de poids 47",
+      "en_US":"Weight Loss clinic 47",
+      "es_ES":"Weight Loss clinic 47"
+   },
+   "keyword":{
+      "fr_CA":"perte, poids, orange, femme, l\u00e9ger, doux, lumineux",
+      "en_US":"loss, weight, orange, woman, light, soft, luminous",
+      "es_ES":"loss, weight, orange, woman, light, soft, luminous"
+   },
+   "categories":[
+      "weightloss"
+   ],
+   "colors":[
+      "orange"
+   ],
+   "mobile":false,
+   "actif":true
+}
