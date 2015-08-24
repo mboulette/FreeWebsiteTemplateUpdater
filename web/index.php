@@ -51,7 +51,7 @@ foreach ($branches as $branche) {
 
     $branche = pathinfo($branche);
 
-    if ($branche['dirname'] != '.') {
+    if ($branche['dirname'] != '.' && (substr($branche['basename'], 0, 6) == 'Mobile' || substr($branche['basename'], 0, 6) == 'Pharma') )  {
 
         $branche_name = explode('-', $branche['basename']);
 
